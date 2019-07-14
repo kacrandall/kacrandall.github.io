@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Keith A. Crandall, PhD
 
-You can use the [editor on GitHub](https://github.com/kacrandall/kacrandall.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Director, Computational Biology Institute, George Washington University
+Professor of Biostatistics and Bioinformatics, Milken Institute School of Public Health
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
